@@ -31,11 +31,12 @@ Step into the boots of a fearless king defending his kingdom from invading pigs.
 📄 main.py                 ← Main game code
 
 ▶️ How to Run
+
 	1.	Install Python 3.7+
+ https://www.python.org/downloads/release/python-370/
+ 
 	2.	Install the arcade library:
-
-pip install arcade
-
+ pip install arcade
 
 	3.	Clone this repository:
 
