@@ -63,6 +63,6 @@ License: CC-BY 4.0
 🙌 Author
 
 Built entirely by Dimantha Shaluka Hewapatha
-Every line of code, game logic, and integration was made from scratch.
+Every line of code, game logic, and integration was made from scratch. Except for the python Arcade library.
 
 ⸻
