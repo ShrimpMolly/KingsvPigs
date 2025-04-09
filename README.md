@@ -39,7 +39,7 @@ pip install arcade
 
 	3.	Clone this repository:
 
-git clone https://github.com/your-username/kings-v-pigs.git
+git clone https://github.com/ShrimpMolly/KingsvPigs
 cd kings-v-pigs
 
 
